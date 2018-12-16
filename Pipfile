@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 "py2app" = "*"
 "eyed3" = "*"
+python-magic-bin = "==0.4.14"
+pylast = "*"
+pylint = "*"
 
 [dev-packages]
 
